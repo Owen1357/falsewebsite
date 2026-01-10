@@ -1,0 +1,208 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+div {
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-family: Times New Roman;
+}
+.RestrauntPhoto {
+    height: 80vh;
+    background-color: white;
+}
+.PhotoBoxBottem {
+    background-color: gray;
+}
+.ContentBox {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: block;
+}
+.ContentBox1 {
+    margin: 1px;
+    height: 60%;
+    text-align: center;
+    display: block;
+}
+.Box10vh {
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+    display: block;
+    vertical-align: bottom;
+}
+.SideBox {
+    padding-top: 20%;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+    height: 35em;
+    width: 20vw;
+}
+.CenterBox {
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+    height: 35em;
+    width: 30vw;
+}
+.SectionTitle {
+    color: black;
+    font-size: 3em;
+    margin: 0;
+}
+.ServiceBox {
+    width: 16.5vw;
+    display: inline-block;
+}
+.ServiceButten {
+    width: 15vw;
+    display: inline-block;
+    align-content: center;
+    vertical-align: middle;
+    transition-property: all;
+    transition-duration: 150ms;
+}
+    .ServiceButten:Hover {
+        width: 15.5vw;
+        display: inline-block;
+        cursor: pointer;
+    }
+
+.LogoBox {
+    padding-top: 5%;
+    height: 70%;
+    width: 100%
+}
+
+.Logo {
+    width: 70%;
+}
+
+.TakeoutBox {
+    height: 30%;
+    width: 100%; 
+    text-align: center;
+    margin:0;
+}
+
+.OnlineOrder {
+    width: 60%;
+    transition-property: all;
+    transition-duration: 150ms;
+}
+    .OnlineOrder:Hover {
+        width: 65%;
+        cursor: pointer;
+    }
+.SideBoxTitle {
+    margin-top: 25%;
+    margin-bottom: 5%;
+
+    font-size: 2.5vw;
+}
+.ContactText {
+    color: black;
+    font-size: 1.25vw;
+    display: block;
+    margin-bottom: 5%;
+    text-decoration: none;
+}
+
+    .ContactText:hover {
+        color: black;
+        font-size: 1.3vw;
+        display: block;
+        margin-bottom: 5%;
+        text-decoration: none;
+        cursor: pointer;
+    }
+.HoursText {
+    color: black;
+    font-size: 1.25vw;
+    display: block;
+    margin-bottom: 5%;
+    text-decoration: none;
+}
+.PosterBox {
+    text-align: center;
+    align-content: center;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    margin-bottom: 0;
+}
+.Poster {
+    height: 75vh;
+    margin-left: 2vw;
+    display: inline-block;
+}
+.BottemBar {
+    background-color: black;
+    width: 100%;
+    height: 10vh;
+}
+.BottemBarText {
+    color: white;
+    margin-top: 0;
+    margin-bottom: 1vh;
+    font-size: 1.25vh;
+    display: block;
+}
+.BottemBarLink {
+    color: white;
+    font-size: 1.25vh;
+    display: block;
+    text-decoration: underline;
+}
+.BottemBottemBarLink {
+    color: white;
+    margin-top: 1vh;
+    margin-bottom: 0;
+    font-size: 1.25vh;
+    display: block;
+    text-decoration:underline;
+}
+.LogoBoxMini {
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+    padding-right: 2vh;
+    padding-left: 2vh;
+    height: 100%;
+}
+.LogoMini {
+    height: 80%;
+}
+.CreditBox {
+    width: 50vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    vertical-align: top;
+    display: inline-block;
+    text-align: left;
+}
+.SocalMediaBox {
+    padding-left: 2vh;
+    padding-right: 2vh;
+    width: 40vw;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+}
+.SocalMediaIcon {
+    vertical-align: central;
+    height: 5vh;
+    display: inline-block;
+    margin-left: 5%;
+}
