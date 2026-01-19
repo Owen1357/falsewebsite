@@ -22,7 +22,6 @@ p {
 /* Top Section Styles */
 /* SubSection Styles */
 .SubSection {
-    width: 45em;
     display: inline-block;
     align-content: center;
     vertical-align: top;
@@ -55,14 +54,17 @@ p {
         color: white;
     }
 
-.CateringMenuImage {
-    margin-Top: 2em;
-    height: 42em;
+.MenuImage {
+    display: inline-block;
+    margin-Top: 0;
+    height: 46em;
     transition-duration: 150ms;
     margin-bottom: 1em;
+    border: 2px solid black;
 }
-    .CateringMenuImage:hover {
-        height: 43em;
+
+    .MenuImage:hover {
+        height: 47em;
         cursor: pointer;
         margin-bottom: 0;
     }
