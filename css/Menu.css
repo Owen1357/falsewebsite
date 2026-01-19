@@ -30,6 +30,8 @@
 .SubDesc {
     font-size: 2em;
     margin: 0;
+    margin-left : 1em;
+    margin-right: 1em;
 }
 .MenuImage {
     display: inline-block;
@@ -73,4 +75,8 @@
 .Button:hover {
     background-color: #272727;
     color: white;
+}
+.ImageBar {
+    margin-left: 1em;
+    margin-right: 1em;
 }
