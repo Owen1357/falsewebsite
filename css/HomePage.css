@@ -81,7 +81,7 @@ p {
     height: 70%;
     width: 100%
 }
-.Logo {
+.BigLogo {
     width: 70%;
 }
 /* link buttons*/
@@ -131,50 +131,4 @@ p {
     height: 720px;
     margin-left: 2vw;
     display: inline-block;
-}
-/*bottembar*/
-.BottemBar {
-    background-color: black;
-    width: 100%;
-    height: 10vh;
-}
-.BottemBarText {
-    color: white;
-    margin-top: 0;
-    margin-bottom: 1vh;
-    font-size: 1.25vh;
-    display: block;
-}
-.BottemBarLink {
-    color: white;
-    font-size: 1.25vh;
-    display: block;
-    text-decoration: underline;
-}
-.BottemBottemBarLink {
-    color: white;
-    margin-top: 1vh;
-    margin-bottom: 0;
-    font-size: 1.25vh;
-    display: block;
-    text-decoration:underline;
-}
-.LogoBoxMini {
-    display: inline-block;
-    align-content: center;
-    text-align: center;
-    padding-right: 2vh;
-    padding-left: 2vh;
-    height: 100%;
-}
-.LogoMini {
-    height: 80%;
-}
-.CreditBox {
-    width: 50vw;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
-    vertical-align: top;
-    display: inline-block;
-    text-align: left;
 }
