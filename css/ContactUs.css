@@ -1,0 +1,51 @@
+.Page {
+    display: block;
+    text-align: center;
+}
+
+.TopSection {
+    display: block;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.BottomSection {
+    display: block;
+    text-align: center;
+}
+.MainTitle {
+    font-size: 4em;
+    margin: 0;
+    margin-bottom: .5em;
+}
+
+.SubTitle {
+    font-size: 3em;
+    margin: 0;
+}
+
+.SubDesc {
+    font-size: 2.5em;
+    margin: 0;
+    margin-top: .75em;
+    margin-bottom: .75em;
+}
+.ContactText {
+    font-size: 2em;
+    margin: 0;
+    font-style: italic;
+    transition: font-size 0.15s ease;
+    cursor: pointer;
+}
+.ContactText:hover {
+    font-size: 2.1em;
+}
+
+.ContactBoxes {
+    margin: 2em;
+    display: inline-block;
+    height: 12em;
+    width: 45em;
+    background-color: gray;
+    vertical-align: top;
+}

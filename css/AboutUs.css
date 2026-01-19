@@ -1,0 +1,49 @@
+.Page {
+    display: block;
+    text-align: center;
+}
+
+.TopSection {
+    display: block;
+    text-align: center;
+    margin-bottom: 2em;
+}
+.BottomSection {
+    display: block;
+    text-align: center;
+    margin-bottom: 12em;
+}
+
+.MainTitle {
+    font-size: 4em;
+    margin: 0;
+    margin-bottom: .5em;
+}
+
+.SubTitle {
+    font-size: 3em;
+    margin: 0;
+}
+
+.SubDesc {
+    font-size: 1.5em;
+    margin: 0;
+}
+.ParagraphText {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+.ImageBar {
+    display: block;
+    align-content: center;
+    text-align: center;
+}
+.ImmageBarImage {
+    display: inline-block;
+    align-content: center;
+    width: 20em;
+    margin: .5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    vertical-align: middle;
+}

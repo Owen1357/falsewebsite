@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+div {
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-family: Times New Roman;
+}
+
+.RestrauntPhoto {
+    padding-bottom: 1em;
+    height: auto;
+    background-color: white;
+}/* contains photo of building */
+.PhotoBoxBottem {
+    background-color: gray;
+}/* Contains photo of bar */
+/* contact us, logo,hours*/
+.TakeoutBox {
+    height: 30%;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+.CenterBox {
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+    width: 30vw;
+}
+.SideBox {
+    padding-top: 20%;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+    width: 20vw;
+}
+.SideBoxTitle {
+    margin-top: 25%;
+    margin-bottom: 5%;
+    font-size: 2.5vw;
+}
+.ContactText {
+    color: black;
+    font-size: 1.25vw;
+    display: block;
+    margin-bottom: 5%;
+    text-decoration: none;
+}
+    .ContactText:hover {
+        color: black;
+        font-size: 1.3vw;
+        display: block;
+        margin-bottom: 5%;
+        text-decoration: none;
+        cursor: pointer;
+    }
+.HoursText {
+    color: black;
+    font-size: 1.25vw;
+    display: block;
+    margin-bottom: 5%;
+    text-decoration: none;
+}
+.ContentBox1 {
+    margin: 1px;
+    text-align: center;
+    display: block;
+    margin-bottom: 18em;
+}
+.LogoBox {
+    padding-top: 5%;
+    height: 70%;
+    width: 100%
+}
+.Logo {
+    width: 70%;
+}
+/* link buttons*/
+.Box10vh {
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+    display: block;
+    position: static;
+    bottom: 0;
+}
+.ServiceBox {
+    width: 20em;
+    display: inline-block;
+    margin: 1em;
+}
+.ServiceButten {
+    width: 20em;
+    display: inline-block;
+    align-content: center;
+    vertical-align: middle;
+    transition-property: all;
+    transition-duration: 150ms;
+}
+/*posters*/
+.SectionTitle {
+    color: black;
+    font-size: 3em;
+    margin: 0;
+}
+.ContentBox {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: block;
+}
+.PosterBox {
+    text-align: center;
+    align-content: center;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    margin-bottom: 0;
+}
+.Poster {
+    height: 720px;
+    margin-left: 2vw;
+    display: inline-block;
+}
+/*bottembar*/
+.BottemBar {
+    background-color: black;
+    width: 100%;
+    height: 10vh;
+}
+.BottemBarText {
+    color: white;
+    margin-top: 0;
+    margin-bottom: 1vh;
+    font-size: 1.25vh;
+    display: block;
+}
+.BottemBarLink {
+    color: white;
+    font-size: 1.25vh;
+    display: block;
+    text-decoration: underline;
+}
+.BottemBottemBarLink {
+    color: white;
+    margin-top: 1vh;
+    margin-bottom: 0;
+    font-size: 1.25vh;
+    display: block;
+    text-decoration:underline;
+}
+.LogoBoxMini {
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+    padding-right: 2vh;
+    padding-left: 2vh;
+    height: 100%;
+}
+.LogoMini {
+    height: 80%;
+}
+.CreditBox {
+    width: 50vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    vertical-align: top;
+    display: inline-block;
+    text-align: left;
+}

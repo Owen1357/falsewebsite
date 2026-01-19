@@ -1,0 +1,76 @@
+.Page {
+    display: block;
+    text-align: center;
+}
+.TopSection {
+    display: block;
+    text-align: center;
+    margin-bottom: 2em;
+}
+.BottemSection {
+    display: block;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.MainTitle {
+    font-size: 4em;
+    margin: 0;
+    margin-bottom: .5em;
+}
+
+.SubTitle {
+    font-size: 3em;
+    margin: 0;
+}
+.SubSubTitle {
+    font-size: 2.5em;
+    margin: 0;
+}
+.SubDesc {
+    font-size: 2em;
+    margin: 0;
+}
+.MenuImage {
+    display: inline-block;
+    margin-Top: 0;
+    height: 46em;
+    transition-duration: 150ms;
+    margin-bottom: 1em;
+    border: 2px solid black;
+}
+
+.MenuImage:hover {
+    height: 47em;
+    cursor: pointer;
+    margin-bottom: 0;
+}
+.ParagraphText {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+.ItalicText {
+    font-size: 1.75em;
+    margin-bottom: 15px;
+    font-style: italic;
+}
+.Button {
+    display: block;
+    align-content: center;
+    font-size: 2em;
+    width: 12em;
+    height: 2.5em;
+    transition-duration: 150ms;
+    background-color: #d1d1d1;
+    border: 2px solid black;
+    border-radius: .5em;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: .5em;    
+    cursor: pointer;
+}
+
+.Button:hover {
+    background-color: #272727;
+    color: white;
+}
