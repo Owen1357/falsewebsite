@@ -1,4 +1,4 @@
-/*top bar*/
+ /*top bar*/
 body {
     margin: 0;
     margin-bottom: 6vh;
@@ -118,6 +118,7 @@ body {
     position: absolute;
     margin-right: 2vw;
     height: 6vh;
+    overflow: hidden;
 }
 .SocalMediaLogo {
     display: inline-block;
